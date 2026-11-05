@@ -1,5 +1,5 @@
 # 3D Bicycle Modeling Project
-
+![3D Bicycle Model](bicycle-model.png)
 A collaborative 3D CAD modeling project completed as part of EG1005 — 3D Modelling and 3D Printing Technology at Assumption University.
 
 ## Project Overview
