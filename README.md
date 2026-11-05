@@ -3,7 +3,7 @@
 A collaborative 3D CAD modeling project completed as part of EG1005 — 3D Modelling and 3D Printing Technology at Assumption University.
 
 ## Project Overview
-
+![Bicycle component models](bicycle-parts.png)
 This project involved creating 3D models of bicycle components using SolidWorks, following instructional references from YouTube. The modeling tasks were divided between two team members.
 
 ## Software Used
